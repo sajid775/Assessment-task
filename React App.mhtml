@@ -1,0 +1,154 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/
+Subject: React App
+Date: Thu, 22 Feb 2024 02:07:09 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG----"
+
+
+------MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG----
+Content-Type: text/html
+Content-ID: <frame-43300D38EC345DC1F73BC2A6BA182B2B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-c7afa241-88b3-4073-84db-2f3c4f433e70@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-12af85cb-bd7d-4c56=
+-84e4-472209daf73f@mhtml.blink" />
+   =20
+    <link rel=3D"icon" href=3D"http://localhost:3000/favicon.ico">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <meta name=3D"theme-color" content=3D"#000000">
+    <meta name=3D"description" content=3D"Web site created using create-rea=
+ct-app">
+    <link rel=3D"apple-touch-icon" href=3D"http://localhost:3000/logo192.pn=
+g">
+    <!--
+      manifest.json provides metadata used when your web app is installed o=
+n a
+      user's mobile device or desktop. See https://developers.google.com/we=
+b/fundamentals/web-app-manifest/
+    -->
+    <link rel=3D"manifest" href=3D"http://localhost:3000/manifest.json">
+    <!--
+      Notice the use of  in the tags above.
+      It will be replaced with the URL of the `public` folder during the bu=
+ild.
+      Only files inside the `public` folder can be referenced from the HTML=
+.
+
+      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+      work correctly both with client-side routing and a non-root public UR=
+L.
+      Learn how to configure a non-root public URL by running `npm run buil=
+d`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+   =20
+    <div id=3D"root"><div style=3D"text-align: left; margin: 10% 20%;"><h1 =
+style=3D"display: flex; justify-content: space-between; align-items: center=
+;"><span>Add Tax</span><span style=3D"font-size: 16px;">X</span></h1><div s=
+tyle=3D"display: flex; margin: 10px;"><div style=3D"margin: 10px 10px 10px =
+0px;"><input type=3D"text" id=3D"text" name=3D"text" style=3D"padding: 6px;=
+"></div><div style=3D"margin: 10px 0px;"><input type=3D"symbel" id=3D"symbe=
+l" name=3D"symbel" style=3D"padding: 6px;"></div></div><div style=3D"displa=
+y: flex; flex-direction: column; justify-content: space-between; margin: 10=
+px 0px;"><label><input type=3D"radio" name=3D"applyType" value=3D"all">Appl=
+y to all items in collection</label><label><input type=3D"radio" name=3D"ap=
+plyType" value=3D"specific">Apply to specific items</label></div><hr style=
+=3D"margin: 20px 0px;"><div style=3D"position: relative; display: inline-bl=
+ock;"><input type=3D"text" placeholder=3D"Search items" style=3D"margin-bot=
+tom: 10px; padding: 6px 6px 6px 30px; position: relative; box-sizing: borde=
+r-box;"><img src=3D"https://www.svgrepo.com/show/7109/search.svg" alt=3D"Se=
+arch" style=3D"position: absolute; left: 5px; top: 40%; transform: translat=
+eY(-50%); cursor: pointer; width: 15px; height: 15px;"></div><div style=3D"=
+display: flex; flex-direction: column; margin-bottom: 20px;"><label style=
+=3D"background-color: gray;"><input type=3D"checkbox" value=3D"Bracelets">B=
+racelets</label><label><input type=3D"checkbox" value=3D"Jasinthe Bracelet"=
+>Jasinthe Bracelet</label><label><input type=3D"checkbox" value=3D"Jasinthe=
+ Bracelet">Jasinthe Bracelet</label><label><input type=3D"checkbox" value=
+=3D"Inspire Bracelet">Inspire Bracelet</label><label style=3D"background-co=
+lor: graytext;"><input type=3D"checkbox" value=3D"null"></label><label><inp=
+ut type=3D"checkbox" value=3D"Zero amount item with question">Zero amount i=
+tem with question</label><label><input type=3D"checkbox" value=3D"Normal it=
+em with questions">Normal item with questions</label><label><input type=3D"=
+checkbox" value=3D"normal item">normal item</label></div><div style=3D"disp=
+lay: flex; flex-direction: column; margin-bottom: 20px;"></div><hr style=3D=
+"margin: 20px 0px;"><div style=3D"background-color: orange; padding: 10px; =
+color: white; float: right;">Apply tax to 6 item(s)</div></div></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+ =20
+
+<div id=3D"loom-companion-mv3" ext-id=3D"liecbddmkiiihnedobmlmillhodjkdmb">=
+<section id=3D"shadow-host-companion"><template shadowmode=3D"open"><div id=
+=3D"inner-shadow-companion"><div class=3D"theme-dark css-0" id=3D"tooltip-m=
+ount-layer-companion"></div><div class=3D"companion-1b6rwsq"></div></div></=
+template></section></div></body></html>
+------MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c7afa241-88b3-4073-84db-2f3c4f433e70@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+------MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-12af85cb-bd7d-4c56-84e4-472209daf73f@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-weight: 400; font-style: normal; font-family: circular; s=
+rc: url("chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/Circular=
+XXWeb-Book.woff2") format("woff2"); }
+
+@font-face { font-weight: 700; font-style: normal; font-family: circular; s=
+rc: url("chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/Circular=
+XXWeb-Bold.woff2") format("woff2"); }
+------MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.svgrepo.com/show/7109/search.svg
+
+<?xml version=3D"1.0" encoding=3D"iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tool=
+s -->
+<svg fill=3D"#000000" height=3D"800px" width=3D"800px" version=3D"1.1" id=
+=3D"Capa_1" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.=
+w3.org/1999/xlink"=20
+	 viewBox=3D"0 0 488.4 488.4" xml:space=3D"preserve">
+<g>
+	<g>
+		<path d=3D"M0,203.25c0,112.1,91.2,203.2,203.2,203.2c51.6,0,98.8-19.4,134.=
+7-51.2l129.5,129.5c2.4,2.4,5.5,3.6,8.7,3.6
+			s6.3-1.2,8.7-3.6c4.8-4.8,4.8-12.5,0-17.3l-129.6-129.5c31.8-35.9,51.2-83,=
+51.2-134.7c0-112.1-91.2-203.2-203.2-203.2
+			S0,91.15,0,203.25z M381.9,203.25c0,98.5-80.2,178.7-178.7,178.7s-178.7-80=
+.2-178.7-178.7s80.2-178.7,178.7-178.7
+			S381.9,104.65,381.9,203.25z"/>
+	</g>
+</g>
+</svg>
+------MultipartBoundary--w7lmi7uPVpyduTGuNAUsXnldTZV6ubexqlNsmCxlEG------
